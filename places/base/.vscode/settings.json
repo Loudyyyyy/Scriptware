@@ -1,0 +1,17 @@
+{
+	"files.eol": "\n",
+	"[typescript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+		"editor.formatOnSave": true
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+		"editor.formatOnSave": true
+	},
+	"eslint.run": "onType",
+	"eslint.format.enable": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"roblox-ts.boundary.paths.clientPaths": ["src/client", "../common/src/client"],
+	"roblox-ts.boundary.paths.serverPaths": ["src/server", "../common/src/server"]
+
+}
